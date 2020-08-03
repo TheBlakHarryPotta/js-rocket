@@ -1,2 +1,2 @@
 # js-rocket
- Launch a rocket with javascript
+ Lauching a rocket with js
